@@ -50,7 +50,7 @@ background = new Sprite({
         y:0 
     },
     imageSrc: './files/background.png',
-    scale:1.57
+    scale:1.80
 })
 
 
