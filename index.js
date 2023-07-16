@@ -58,7 +58,7 @@ background = new Sprite({
 shops = new Sprite({
     position:{
         x:1100,
-        y:290
+        y:400
     },
     imageSrc: './files/shop.png',
     framesMax: 6,
